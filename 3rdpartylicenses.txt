@@ -66,7 +66,7 @@ MIT
 @angular/router
 MIT
 
-@jfc/ui/toolkit
+@jfc/ui-toolkit
 
 apexcharts
 MIT
